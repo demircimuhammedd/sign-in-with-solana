@@ -488,13 +488,3 @@ export function verify(data: SolanaSignInInput, opts: VerificationOptions) {
 }
 ```
 
-## Full Feature Demo
-
-[https://www.loom.com/share/228d2a4820fb44f69fb10c4fb5f2b55a](https://www.loom.com/share/228d2a4820fb44f69fb10c4fb5f2b55a)
-
-## Reference Implementation
-
-You can find the source code for the example implementation [here](https://github.com/phantom/sign-in-with-solana/tree/main/example-dapp).
-
-You can play around with SIWS here: [https://siws.vercel.app/](https://siws.vercel.app/).
-Note: Currently SIWS is only supported on Phantom extension (version >=23.11.0)
